@@ -1,0 +1,26 @@
+[
+    {
+        "email": "test@example.com",
+        "breach_name": "LinkedIn",
+        "breach_date": "2021-06-22",
+        "data_leaked": ["email", "password", "name"]
+    },
+    {
+        "email": "john@gmail.com",
+        "breach_name": "Adobe",
+        "breach_date": "2023-10-04",
+        "data_leaked": ["email", "password", "credit_card"]
+    },
+    {
+        "email": "sarah@yahoo.com",
+        "breach_name": "Facebook",
+        "breach_date": "2022-08-15",
+        "data_leaked": ["email", "phone", "address"]
+    },
+    {
+        "email": "demo@company.com",
+        "breach_name": "Dropbox",
+        "breach_date": "2024-01-10",
+        "data_leaked": ["email", "password"]
+    }
+]
